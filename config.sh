@@ -41,10 +41,10 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "--------------------------------"
-  ui_print "ExSDCard Write Access Enabler v3.1"
-  ui_print "with Oreo feature"
-  ui_print "For Magisk"
-  ui_print "By Rom@XDA"
+  ui_print "ExSDCard Write Access Enabler v3.4"
+  ui_print "with Oreo support"
+  ui_print "For Magisk v15+"
+  ui_print "By Rom"
   ui_print "--------------------------------"
 }
 
